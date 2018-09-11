@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppListaCompras</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtNome">Nome: </string>
+    <string name="hintNome">Digite o nome do produto </string>
+    <string name="txtQuantidade">Quantidade: </string>
+    <string name="hintQuantidade">Digite a quantidade do produto </string>
+    <string name="txtCategoria">Categoria: </string>
+    <string name="txtNovaCategoria">Nova Categoria...  </string>
+    <string name="txtSelcecione">Selecione a categoria... </string>
+    <string name="txtSalvar">SALVAR </string>
+    <string name="txtCancelar">CANCELAR </string>
+    <string name="hintCategoria">Digite a categoria </string>
+    <string name="txtAtencao">Atenção!</string>
+    <string name="txtCamposObrigatorios">Preencha os campos</string>
+
+</resources>
